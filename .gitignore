@@ -1,0 +1,47 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+.vcxproj
+.filters
+.user
+.vcxproj.filters
+.vcxproj.users
+# Directories
+
+glfw-3.4/
+includes/
+libs/
+openGL_1/x64/
+
+openGL_1/openGL_1/x64/
+.vs/
